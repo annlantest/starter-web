@@ -10,5 +10,7 @@ This is example to show different parts of the Git repository and various comman
 Sample website with plenty of files for demos
 
 ## Deployment
-
+As stated above the main purpose is to provide simple demo for git repository
+. 
+This is a simple web project, deployment can be on any web server.
 ## How to contribute
