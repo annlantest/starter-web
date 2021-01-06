@@ -14,3 +14,7 @@ As stated above the main purpose is to provide simple demo for git repository
 . 
 This is a simple web project, deployment can be on any web server.
 ## How to contribute
+
+## Copywrite 
+
+2014 GIT
