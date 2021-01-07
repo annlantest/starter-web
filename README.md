@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. This is a simple website project for showing how use Git and Github together. Adding a line for rebasis example
+This repository is for showing how Git and GitHub work. This is a simple website project for showing how use Git and Github together. Adding a line for rebasis example, than mare changes 
 
 ## Introtuction
 This is example to show different parts of the Git repository and various commands using a web project.
