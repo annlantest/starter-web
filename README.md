@@ -20,4 +20,4 @@ Please fork this repository and then Pull Request for review.
 
 ## Copywrite 
 
-2014 GIT. All rights reserved
+2014 GIT. All rights reserved. Make it 
